@@ -27,3 +27,27 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+h1 {
+    text-decoration: underline;
+    color:blueviolet;
+    background-color: pink;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+body {
+    background-image:url('https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+#jordans-1 {
+    border: 0 solid blue;
+    border-width: 0 10px 0 10px;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
